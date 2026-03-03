@@ -90,6 +90,24 @@ def search_booking(
         "q": prompt_text,
         "depth": depth,
         "outputType": "structured",
+        "structuredOutputSchema": json.dumps({
+            "type": "object",
+            "properties": {
+                "has_booking": {
+                    "type": "boolean",
+                    "description": "Whether the domain has an online booking system",
+                },
+                "booking_platform": {
+                    "type": "string",
+                    "description": "Name of the booking platform detected, or null if none",
+                },
+                "reasoning": {
+                    "type": "string",
+                    "description": "Brief explanation of how the conclusion was reached",
+                },
+            },
+            "required": ["has_booking", "booking_platform", "reasoning"],
+        }),
         "includedDomains": [domain],
     }
 

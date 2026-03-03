@@ -28,7 +28,7 @@ from lib.text_scanner_local import load_patterns, scan_text
 from lib.llm_analysis_local import analyze, load_prompt
 from lib.linkup_local import search_booking, fill_prompt
 
-load_dotenv()
+load_dotenv(override=True)
 
 logger = logging.getLogger("pipeline")
 
