@@ -1,0 +1,501 @@
+domain,has_booking,booking_platform,reasoning,source,provider_name,country_name,continent
+freizeitspass-dresden.de,t,,"The website has clear booking UI with buttons for 'Schlauchboot-Touren' and 'So funktioniert´s', indicating booking capability.",llm_html,Freizeitspass Dresden,Germany,EU
+diginautic.com,t,WooCommerce,"The website features a shop with products available for direct purchase, indicating an online booking system.",llm_markdown_v1,Diginautic,United Kingdom,EU
+historicedinburghtours.co.uk,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is in place.",llm_html,Historic Edinburgh Tours,United Kingdom,EU
+escuelacantabradesurf.com,t,,"The site has multiple 'Reserva ya' buttons and links to booking pages, indicating online booking capability.",llm_html,Escuela CáNtabra De Surf,Spain,EU
+pahtaoutdoor.fi,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Pahta Outdoor,Finland,EU
+serafica.it,f,,The website does not have an online booking system; it only features a shopping cart for products.,llm_markdown_v1,Ireca Di Serafica Gioacchino,Italy,EU
+hillsinmind.co.uk,f,,The website only offers 'Enquire Now' options and does not have an online booking system.,llm_markdown_v1,Hills In Mind,United Kingdom,EU
+garbincharter.com,t,,"The site has clear booking buttons for boats and tours, indicating online booking capability without a known platform.",llm_html,Garbin Charter,Croatia,EU
+jetblastibiza.com,t,Bokun,"The website contains an embedded Bokun widget for online bookings, allowing customers to book and pay for experiences.",llm_html,Jetblast Ibiza Water Sports,Spain,EU
+bestroadtrip.fr,t,,The site has clear booking options with links to 'tarif & réservation' but no known booking platform found.,llm_html,Best Road Trip,France,EU
+southcrete.gr,f,,The website does not mention any online booking system or provide booking buttons; it focuses on contact for reservations.,llm_markdown_v1,Mavrakis G.N.,Greece,EU
+groningergidsenteam.nl,t,,"The site has clear booking UI with buttons like 'Tour aanvragen' and 'Vraag een stadswandeling aan', indicating booking capability.",llm_html,Groningen Gidsenteam,Netherlands,EU
+welcometotransylvania.ro,t,,"The site has a 'Book Now' button that leads to a booking page, indicating online booking capability.",llm_html,On_The_Map_Ro,Romania,EU
+edencatamaran.com,t,,"The site has clear booking UI with buttons for 'READ MORE (10% ONLINE DISCOUNT)' and 'READ MORE (UP TO 10% ONLINE DISCOUNT)', indicating booking options.",llm_html,Eden-Catamaran,Spain,EU
+autoservizidellabidia.it,f,,The website does not have an online booking system; it only offers contact forms and requests for quotes.,llm_markdown_v1,Autoservizi Dbtuscany,Italy,EU
+h2oaventura.com,t,,"The website explicitly states 'Faites votre réservation en ligne' indicating an online booking system, but no specific platform is mentioned.",llm_markdown_v1,H2o Actividades Acuaticas,Spain,EU
+aircat.cat,t,,"The site has a clear booking button for purchasing tickets directly, indicating online booking capability.",llm_html,Aircat,Spain,EU
+kokokayakjavea.com,t,,"The site has a 'Reservar Excursión' button leading to a booking page, indicating online booking capability.",llm_html,Kokokayak,Spain,EU
+karmaboat.com,t,,"The site has a 'BOOK NOW' button that leads to a booking page, indicating online booking capability.",llm_html,Karma Boat,Portugal,EU
+gemmapell.com,t,,"Multiple 'BOOKING DETAILS' links suggest booking options, but no known platform or checkout flow is present.",llm_html,Gemma Pell,France,EU
+gulliverservizituristici.it,f,,The website does not provide any online booking system or direct payment options; it only offers contact details for inquiries.,llm_markdown_v1,Gulliver Servizi Turistici,Italy,EU
+luzzutours.com,t,FareHarbor,"The site uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Luzzu Tours Malta,Netherlands,EU
+poetessaboattour.com,t,,"The site has a 'BOOK NOW YOUR TOUR' button leading to a contact page, indicating booking capability without a known platform.",llm_html,Poetessa,Italy,EU
+selectiontours.com,t,,"The website has a 'Proceed Booking' section and allows account creation for tracking bookings, indicating an online booking system.",llm_markdown_v1,Selection Tours,,
+trinity-yachting.gr,t,FareHarbor,The website includes 'Book Now' buttons and uses FareHarbor for online bookings.,llm_markdown_v1,Trinity Yachting,Greece,EU
+lariocomoboat.it,t,,"The website has multiple 'Prenota Ora' buttons linking to a booking page, indicating online booking capability.",llm_html,Lario Como Boat,Italy,EU
+nccnapolicarservice.com,f,,The website does not provide an online booking system; it offers services via contact forms and quotes instead.,llm_markdown_v1,Ncc Napoli Car Service,Italy,EU
+elysium.cruises,t,,The site includes a booking form shortcode and clear booking UI elements like 'Book Your Sailing Yacht Charter Here'.,llm_html,Elysium Yachting,Greece,EU
+sorrentocharterboats.it,t,,"The site has clear booking UI with buttons like 'SCOPRI I TOUR' and 'VEDI TUTTI I TOUR', indicating booking capability.",llm_html,G.F. Charter Di Francesco Gaeta Paolo,Italy,EU
+deepsarinaescursioni.com,t,,"The site has clear booking UI with options to book excursions and prices displayed, but no known booking platform was identified.",llm_html,Deep Sarina Di Mure' Stefano,Italy,EU
+nortsav.fi,t,Booking.com,The site includes a link to check availability and book accommodations directly via Booking.com.,llm_markdown_v1,Nortsav,Finland,EU
+chartersystemsorrento.com,t,,The site has clear booking UI with 'BOOK A TOUR' button and mentions of online booking and instant confirmation.,llm_html,Charter System Experience,Italy,EU
+conficon-turisme.com,t,,"The site has a 'RESERVA AHORA TU EXPERIENCIA' button and clear booking UI, but no known platform integration.",llm_html,Conficon Turisme I Tradicions,Spain,EU
+tuscan-safari.it,t,Regiondo,"The website uses Regiondo for booking experiences, indicated by links and booking buttons.",llm_markdown_v1,Tuscansfari,Italy,EU
+belfastcitysightseeing.com,t,,"The site has multiple 'BOOK ONLINE NOW' buttons and clear pricing, indicating an online booking system.",llm_html,Belfast City Sightseeing,United Kingdom,EU
+amoitalytravel.it,f,,No clear booking UI or known booking platform found; only links to destinations and itineraries.,llm_html,Amo Italy S.R.L.,,
+rigabycanal.lv,t,,"The site has multiple 'Buy tickets' buttons and clear booking options, but no known booking platform integration.",llm_html,Kanala Motorlaivu Kompanija,Latvia,EU
+veggera.com,t,,"The site has a booking button, date picker, and guest selector, indicating online booking capability.",llm_html,Veggera,Greece,EU
+pompeii.org.uk,f,,The website does not provide an online booking system; it suggests checking availability and contacting for reservations.,llm_markdown_v1,Catalina Eurotravel,United Kingdom,EU
+thechocolatecocktailclub.co.uk,t,,"The site has multiple 'BOOK NOW' buttons linking to a booking page, indicating online booking capability.",llm_html,The Chocolate Cocktail Club Ltd,United Kingdom,EU
+parafly.at,t,,"The site has a 'JETZT FLUG BUCHEN' button indicating booking capability, but no known booking platform was found.",llm_html,Flugschule Parafly,Austria,EU
+visitaranjuez.com,t,TuriTop Booking System,"The website uses TuriTop for online reservations, allowing customers to book experiences directly.",llm_markdown_v1,Visitaranjuez,Spain,EU
+bonnieandclydeurbantours.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Gagnier Marie Claire,Netherlands,EU
+poggioailaghi.com,t,,"Multiple 'Book Now' buttons are present, indicating online booking capability, but no known platform was identified.",llm_html,Poggio Ai Laghi,Italy,EU
+fly4you.at,t,,"The site has a clear booking button ('Flug buchen') and mentions online reservations, but no known booking platform is detected.",llm_html,Fly4you Erich Plieschounig,Austria,EU
+fuerteventurafullexperience.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Fuerteventura Full Experience,Spain,EU
+storywalking.tours,t,,"The site has a search form for experiences with a 'Let’s go' button, indicating booking capability, but no known platform.",llm_html,Storywalking,Italy,EU
+visite.pl,t,,"The site has a 'Kup Bilet online' link for purchasing tickets, indicating online booking capability.",llm_html,Biuro Turystyki Szkoleń I Konferencji Visite Pl Daria Kieraszewicz,Poland,EU
+bikerentalbarcelona.com,t,,"The site has clear booking buttons for bike rentals and tours, indicating online booking capability.",llm_html,A Bike R&T,Spain,EU
+funsun.pt,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,AntóNio Ricardo Correia Moreira,Portugal,EU
+eosyachts.gr,t,,"The site has multiple 'Book Now' buttons and clear booking UI, but no known booking platform was identified.",llm_html,Eos Yachts,Greece,EU
+charterayacht.gr,t,,"The site has a booking form with date selection and a 'On-line Booking here!' button, indicating direct booking capability.",llm_html,Porto Scuba,Greece,EU
+setsailscrete.com,t,,"The site has clear booking UI with options to book trips, including prices and 'Book now' buttons, but no known platform integration.",llm_html,Sailing Crete,Greece,EU
+trevotour.com,t,Bokun,"The website uses Bokun's widget for online booking, allowing customers to book and pay for experiences directly.",llm_html,Madana Travels,Japan,AS
+parisboatclub.fr,t,,"The site has multiple 'Book now' buttons and a checkout flow, indicating online booking capability.",llm_html,Ettore Riva Productions,France,EU
+happy-tours.biz,t,,"The site has multiple 'Book Now' buttons and links to specific tours, indicating a booking system, but no known platform was identified.",llm_html,Happy Tours Scotland,United Kingdom,EU
+viaappia.guide,t,,The website allows booking bike and walking tours directly with a 'Check Availability' button and links to specific tours.,llm_html,Personal Travels,Italy,EU
+alicantecatamaran.com,f,,The content does not mention any online booking system or provide direct booking options.,llm_markdown_v1,Alicante Catamaran,Spain,EU
+red-adventures.com,t,,"The site has a booking form with adventure type and duration selection, along with a 'Find your adventure' button.",llm_html,Evo Tours,Croatia,EU
+lakecomoboatexperience.com,f,,No online booking system detected; only 'Book Now' button without checkout functionality.,llm_markdown_v1,Lakecomoboatexperience,Italy,EU
+viajescaminodesantiago.com,t,,"The website allows online reservations directly through its platform, indicating an online booking system.",llm_markdown_v1,Activa Camino,Spain,EU
+noleggioleisole.com,t,Regiondo,The website has multiple 'Prenota' buttons linked to Regiondo for booking tours and rentals.,llm_html,Dream Light,Italy,EU
+vilamourayachts.com,t,,"The site has a 'Book Now' button linking to WhatsApp for reservations, indicating booking capability without a known platform.",llm_html,Luxury Reference,Portugal,EU
+given2flyadventures.com,t,,"Multiple 'Book Now' buttons are present with pricing, indicating a booking system, but no known platform was found.",llm_html,Mariana AndrijaŠEviĆ,Croatia,EU
+mkswatersports.com,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Mks Canary Water Sports,Spain,EU
+cotswoldtoursandtravel.com,f,,The website does not provide any online booking options or payment systems; it only offers contact forms for inquiries.,llm_markdown_v1,Albiontouring,United Kingdom,EU
+raygotours.co.uk,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Raygotours,United Kingdom,EU
+ilestours.co.uk,t,FareHarbor,The website includes a 'BOOK NOW' button that links to a FareHarbor booking system for tours.,llm_markdown_v1,Iles Group,United Kingdom,EU
+opatrip.com,t,,"The site offers direct booking with payment options and instant confirmation for tours, indicating an online booking system.",llm_markdown_v1,Opatrip.Com U.S.,United States,NA
+portosailingspot.com,t,WooCommerce,"The site has 'Add to cart' buttons and a checkout flow, indicating an online booking system.",llm_markdown_v1,Deckspot,Portugal,EU
+vespaenjoy.it,t,,"The website has a booking form with options for selecting dates and participants, indicating an online booking system.",llm_markdown_v1,Rent Sprint Di Bianco Salvatore,Italy,EU
+segwaycruisecopenhagen.com,t,,"The site has multiple 'Book online now' buttons and clear booking UI, but no known platform integration.",llm_html,Segway Cruise Copenhagen,Denmark,EU
+nemosub.it,t,,"The site has clear booking UI with options to choose locations and a call to action to book tours, but no known platform was identified.",llm_html,Nemosub Mondello,Italy,EU
+ljubljanskigrad.si,t,WooCommerce,The website has a 'Compra il biglietto!' button that leads to an online ticket purchase system.,llm_markdown_v1,Public Institution Ljubljana Castle,Slovenia,EU
+northernyachting.com,t,,"The site has a 'BOOK NOW' button and links to specific tours, indicating booking capability, but no known platform integration.",llm_html,Northern Yachting,Norway,EU
+seakayakingchania.gr,t,,"The website has multiple 'Book Now' buttons and a booking form for tours, indicating an online booking system.",llm_markdown_v1,Sea Kayaking Chania,Greece,EU
+ardnamurchandistillery.com,t,,"The 'Book a tour' link suggests booking capability, but no known platform or checkout flow was found.",llm_html,Ardnamurchan Distillery Ltd,United Kingdom,EU
+londonphototours.co.uk,f,,The scraped content does not indicate an online booking system or any booking platform integration.,llm_markdown_v1,11252821,United Kingdom,EU
+terreo-canyoning.com,t,,"The site has a 'réserver' button linking to a reservation page, indicating booking capability without a known platform.",llm_html,Terreo,France,EU
+rutasmisteriosas.es,t,,The website allows online booking with a 'Reserva ahora' button and provides a calendar for selecting dates.,llm_markdown_v1,Misterios De EspañA,Spain,EU
+georgeturism.ro,t,,"The site has a 'Book now' button linking to tours, indicating online booking capability, but no known platform was found.",llm_html,George Turism,Romania,EU
+moviescape.co.uk,t,,"The site has a 'BOOK NOW' button that links to a ticket purchasing page, indicating online booking capability.",llm_html,Moviescape Ltd,United Kingdom,EU
+kekovatravel.com,t,,"The site has clear booking options with 'Book now' buttons and pricing, but no known booking platform integration.",llm_html,Vitamin Sea Boat,Turkey,AS
+pragueonkayak.com,t,,"The site has a 'Book a Tour' button linking to a reservation page, indicating online booking capability.",llm_html,Prague On Kayak,Czech Republic,EU
+tromsooutdoor.no,t,,"The website has a shopping cart and checkout flow, indicating online booking capability.",llm_html,Tromsø Outdoor,Norway,EU
+discoversouth.it,t,,"The site has multiple 'Book' buttons for tours, indicating online booking capability, but no known platform integration.",llm_html,Discover South Di Luca Coppola,Italy,EU
+dailytoursmilos.gr,t,,"The site has multiple 'Book Now' buttons and clear pricing, indicating online booking capability without a known platform.",llm_html,Cts Milos,Greece,EU
+tootbus.com,t,,"The site has a date picker, participant selector, and 'Book tickets' buttons indicating online booking capability.",llm_html,Rdgs (Ratp Dev Global Sightseeing),France,EU
+thebattleofbritaintours.co.uk,f,,The website is not connected to a domain and shows an error page with no booking options.,llm_html,Battle Of Britain Tours,United Kingdom,EU
+uklondonchauffeur.co.uk,t,,"The site has a 'Book a Car Now' button, indicating a booking UI, but no known booking platform was found.",llm_html,Londons Chauffeur,United Kingdom,EU
+mysorrentoholiday.com,t,,"The website offers direct booking options with prices displayed and mentions 'Prenotazione solo con deposito', indicating an online booking system.",llm_markdown_v1,My Sorrento Holiday,Italy,EU
+helionautica.com,t,,"The site has a booking form with a date picker and a 'Book Now' button, indicating online booking capability.",llm_html,Helionautika,Greece,EU
+atalaiagold.com,t,,"The site has clear booking UI with buttons like 'Check availability' and 'Explore Our Tours', indicating online booking capability.",llm_html,Atalaia Gold,Portugal,EU
+cretansailing.com,t,,"The website has a 'Book now' button linking to an online booking system, indicating direct booking capability.",llm_html,Marazakis A. Panagiotis,Greece,EU
+mavinbikerent.it,t,,"The site has a registration and login system, along with a shopping cart and checkout flow, indicating online booking capability.",llm_html,Mavin Bike Rent,Italy,EU
+ilovemaranello.com,t,,"The site has multiple 'Prenota' buttons for experiences, indicating a booking system, but no known platform integration.",llm_html,Ma-Ra-Nel-Viaggi Di Zanichelli Pierluigi,Italy,EU
+xtremegreece.gr,t,,"The site has a search form with activity selection and a calendar for events, indicating booking capability.",llm_html,Greek Terrain 4x4,Greece,EU
+gasirayachting.com,f,,The website does not have an online booking system; it only provides contact information for reservations.,llm_markdown_v1,Gasira Yachting,Italy,EU
+lofoten-explorer.no,t,TrekkSoft,"The site has a booking button linked to TrekkSoft, indicating online booking capability.",llm_html,Lofoten Explorer,Norway,EU
+bittigitealleisole.it,t,,"The site has clear booking UI with 'Info' buttons leading to detailed excursion pages, indicating booking capability.",llm_html,Mistral Estasi’S,Italy,EU
+cominoferries.com,t,,The website has clear booking UI with links to online booking and ticket purchase options.,llm_html,Comino Ferries,Malta,EU
+tangieradvantours.com,f,,The website does not feature any online booking system or direct payment options.,llm_markdown_v1,Bounekoub Omar,Morocco,AF
+theeuroroadtrip.eu,t,,"The site has a booking form with a date picker, pickup/drop-off locations, and a submit button for searching trips.",llm_html,Theeuroroadtrip.Eu,Germany,EU
+aquafunmogan.es,t,,"The site has multiple 'Reserve Now' buttons and a clear booking flow, but no known booking platform was identified.",llm_html,Aquafunmogan,Spain,EU
+kontraolasurftenerife.com,t,FareHarbor,The website has multiple 'Reservar' buttons linking to FareHarbor for online booking.,llm_html,Kontraola Surf,Spain,EU
+quadtourmallorca.es,t,,"The site has a 'Reservar' button linking to a booking page, indicating online booking capability.",llm_html,Quad Tour Mallorca,Spain,EU
+rentandrollmadrid.com,t,Bokun,"The website features a booking engine with options to select dates, participants, and prices, indicating an online booking system.",llm_markdown_v1,Rent&Roll,Spain,EU
+rentboatcagliari.com,t,Bookeo,The website contains an iframe linking to a Bookeo booking interface for reservations.,llm_html,Blue Rent Cagliari,Italy,EU
+strzelnica-magnum.pl,t,,"The site has a 'REZERWUJ WIZYTĘ' button linking to a booking page, indicating online booking capability.",llm_html,Shooting Range Magnum,Poland,EU
+turunsaunalautta.fi,t,,"The site has multiple 'Varaa nyt' buttons linking to booking pages, indicating an online booking system.",llm_html,Turun Saunalautta,Finland,EU
+cesarine.com,t,,"The site has clear booking UI with 'View all' buttons for experiences, indicating online booking capability.",llm_html,Cesarine,Italy,EU
+executivecarsstevenage.co.uk,t,,"The site has clear booking buttons for holiday and business travel, indicating an online booking system.",llm_html,Executive Cars Stevenage Limited,United Kingdom,EU
+azoresprivatetours.com,f,,The website does not feature any online booking system or direct payment options; it only provides links for more information.,llm_markdown_v1,Azores In Private,Portugal,EU
+sail4sailing.com,t,,"The site has a 'BOOK NOW' button that links to experiences, indicating online booking capability.",llm_html,Sail4fun Actividades Nauticas,Portugal,EU
+symidaycruises.gr,t,,"The site has multiple 'Book now' buttons and clear pricing, indicating online booking capability without a known platform.",llm_html,King Of Rhodos,Greece,EU
+holabulgaria.com,t,,"The site has a search form with options for destination, activity, duration, and a submit button indicating booking capability.",llm_html,Porovat,Bulgaria,EU
+householdcavalrymuseum.co.uk,t,,"The site has multiple 'Book tickets' buttons and clear booking UI, but no known booking platform integration.",llm_html,Household Cavalry Museum,United Kingdom,EU
+chat-tours.com,t,,"The site has multiple 'More Details' links leading to tour pages with pricing and booking options, indicating online booking capability.",llm_html,Chat Tours,Greece,EU
+speedboatzadar.com,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Speed Boat Zadar,Croatia,EU
+lesbateauxbordelais.com,t,,"The site has a date picker and booking options with 'Reserve now' buttons, indicating online booking capability.",llm_html,Les Bateaux Bordelais,France,EU
+riesundreling.de,f,,No clear booking UI or known platform found; only generic content and no booking options.,llm_html,Ries&Reling,Germany,EU
+supprague.com,t,,"The site has a 'Book Now' button linking to a reservation page, indicating online booking capability.",llm_html,Jiri Sloup,Czech Republic,EU
+wetweim.com,f,,No clear booking UI or known booking platform found; only contact options available.,llm_html,Janis ŽEkanis,Lithuania,EU
+iosbreeze.com,t,,"The 'BOOK NOW' button links to a tours page, indicating booking capability, but no known platform is identified.",llm_html,Ios Breeze,Greece,EU
+corfucruises.com,t,FareHarbor,"The website uses an iframe from FareHarbor, indicating an online booking system is available.",llm_html,Corfu Cruises,Greece,EU
+geoparkgranada.com,f,,The website does not have an online booking system; it only provides contact information for reservations.,llm_markdown_v1,Piotr Janczarek,Spain,EU
+cuevadelpuerto.es,f,,The scraped content does not indicate any online booking system or relevant booking platform integration.,llm_markdown_v1,Cueva Del Puerto,Spain,EU
+paddleparadise.gr,t,,"The site has 'Book now' buttons and mentions online payment, indicating a booking system, but no known platform was identified.",llm_html,Doukellis Antonios - Hoekstra Quen,Greece,EU
+cymasails.com,t,,"The site has multiple 'BOOK NOW' buttons with pricing, indicating a booking system, but no known platform was identified.",llm_html,Cyma Sails,Greece,EU
+dolcevitaclassics.it,t,,"The site has a booking form with a date picker and a 'Search' button, indicating online booking capability.",llm_html,Dolcevita Classics,Italy,EU
+shrewsburyprison.com,t,,"Multiple 'Book Now' buttons are present, indicating booking capability, but no known platform is identified.",llm_html,Shrewsbury Prison,United Kingdom,EU
+flounder-sailing.com,t,FareHarbor,"The website includes an iframe from FareHarbor, indicating online booking capability.",llm_html,Flounder Yacht Sailing,Spain,EU
+thebavarianguide.com,t,,"The site has clear booking UI with links to tours and descriptions, but no known booking platform was found.",llm_html,Michael Sepp Sohr,Germany,EU
+positano-charter.com,t,,"The site has multiple 'Request to Book' buttons with links to booking pages, indicating an online booking system.",llm_html,Positano Dama Charter,Italy,EU
+theghostbustours.com,t,,"The site has 'Book now' buttons and links to booking popups, indicating a booking system, but no known platform was identified.",llm_html,The Ghost Bus Tours Ltd,United Kingdom,EU
+giorgiomussini.com,f,,The website does not have an online booking system; it only provides contact forms for inquiries.,llm_markdown_v1,Mussini Giorgio,Italy,EU
+libroadventures.com,t,,"The site has clear booking UI with options to select dates and book tours, but no known booking platform was identified.",llm_html,Libro Adventures,Croatia,EU
+ecole-du-surf-francais.fr,t,,"The site mentions online booking for surf courses, indicating a booking system, but no specific platform is identified.",llm_html,Ecole Du Surf FrançAis,France,EU
+darkhistorytoursblog.wordpress.com,f,,The scraped content does not indicate any online booking system or relevant booking platform.,llm_markdown_v1,David Joseph Simon,Germany,EU
+welcometoibiza.com,f,,The website does not provide an online booking system; it only offers WhatsApp links for inquiries.,llm_markdown_v1,Capitan Nemo Ibiza,Spain,EU
+seakayaknaxos.com,t,,"The site has clear booking UI with tour listings, prices, and links to book tours directly, but no known booking platform was identified.",llm_html,Active Land,Greece,EU
+magicways.fr,t,,"The site has clear booking UI with 'Book now' buttons and price displays, but no known booking platform was found.",llm_html,Magic Ways,France,EU
+waterglisse.com,t,,"The site allows online booking through a form, indicating an online booking system, but no specific platform is mentioned.",llm_markdown_v1,Mediterranean Nautic Loisirs,France,EU
+victortours.com,f,,The website only offers a 'Get a Quote' option and does not have direct booking or payment functionalities.,llm_markdown_v1,Victor Tours,Serbia,EU
+exclusiveetnaexcursions.com,t,FareHarbor,"The website uses an iframe from FareHarbor, indicating an online booking system is available.",llm_html,Exclusive Etna Excursions,United States,EU
+trackersexcursions.com,t,,"The website states that tours can be booked online directly, indicating an online booking capability.",llm_html,Trackers Excursions,Cyprus,EU
+comedycarnival.co.uk,t,,"The site has multiple 'Book Tickets' buttons and a clear checkout flow, indicating online booking capability.",llm_html,Leviathan Entertainment,United Kingdom,EU
+sportmix.si,t,,"The website has a 'Jetzt buchen' (Book Now) button leading to a booking form, indicating an online booking system.",llm_markdown_v1,Sport Mix Bovec,Slovenia,EU
+grdance.org,f,,The website does not mention any online booking system or provide booking buttons; it primarily offers information.,llm_markdown_v1,Dourdoumpaki Sultana,Greece,EU
+fantasticwalks.co.uk,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,Fantastic Walks,United Kingdom,EU
+rhodesdaycruise.gr,t,,"The site has multiple 'Book Your Cruise' links and detailed cruise options, indicating an online booking system.",llm_markdown_v1,Rhodes Daily Cruises Odysseia Boat,Greece,EU
+surflifetenerife.com,t,,"The site has a 'Book your surf lesson with us' button, indicating a booking capability, but no known platform was identified.",llm_html,Surf Life Pura Vida,Spain,EU
+tuscanytravellers.it,t,,"The site has multiple 'Book now' buttons for tours, indicating online booking capability, but no known booking platform was found.",llm_html,Tuscan Travellers,Italy,EU
+salinasdejanubio.com,t,,"The website mentions a calendar for reservations, indicating an online booking system.",llm_markdown_v1,Salinas De Janubio,Spain,EU
+venticharter.com,t,,"The site has 'BOOK NOW' buttons and clear booking UI, but no known booking platform integration.",llm_html,Venti Boat Charter,Italy,EU
+flisvospirates.com,f,,The website does not provide an online booking system; it only encourages users to book tickets without a direct booking interface.,llm_markdown_v1,Flisvos Cruises,Cyprus,EU
+chucklebustours.co.uk,t,TicketingHub,"The site has an embedded iframe for TicketingHub, allowing users to book and pay for tickets directly.",llm_html,Ntr Enterprise Limited,United Kingdom,EU
+stromma.com,t,,"The website offers 'Check availability' buttons and displays prices, indicating an online booking system.",llm_markdown_v1,Stromma Netherlands,Sweden,EU
+intercrac.com.pl,f,,The content does not indicate an online booking system; it focuses on services and contact information.,llm_markdown_v1,Intercrac,Poland,EU
+royalocean.es,t,,"The site has clear booking UI with links to specific tours, but no known booking platform was found.",llm_html,Royal Ocean,Spain,EU
+charterdolcevita.com,t,,"The website has a 'Book a tour with us' link and a detailed booking form, indicating an online booking system.",llm_markdown_v1,Dolcevita,Italy,EU
+axoranamou.gr,f,,The content does not mention any online booking system or provide booking functionalities.,llm_markdown_v1,Α ΧΩΡΑ ΝΑΜΟΥ,Greece,EU
+agexpeditions.pt,t,,"The site has multiple 'Book now' buttons and clear booking UI, but no known booking platform detected.",llm_html,Ideastation,Portugal,EU
+adventoure.com,t,,"The site has clear booking UI with options to book activities and prices displayed, but no known booking platform was identified.",llm_html,8 Nudos Outdoor,Spain,EU
+bestofzante.com,t,FareHarbor,"The website uses an iframe from FareHarbor, indicating an online booking system is available.",llm_html,Geladas Angelos Tou Petrou,Greece,EU
+queguapo.eu,t,tourqueguapo.com,"The site offers a 'Ver disponibilidad' button for booking quad tours, indicating an online booking system.",llm_markdown_v1,Que Guapo Tpur,Spain,EU
+northernspaingastronomy.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Northern Spain Gastronomy,Spain,EU
+stavroswatersports.com,f,,The website does not provide an online booking system; it lacks direct booking buttons or payment options.,llm_markdown_v1,Stavros Natsikos,Cyprus,EU
+maliayachting.gr,f,,The site uses a contact form for inquiries and does not provide direct online booking or payment options.,llm_markdown_v1,Mallia Port,Greece,EU
+davenford.com,t,,The site has a 'STAY WITH US' button linking to a booking page with date selection and guest options.,llm_html,Davenford,United Kingdom,EU
+prague.eu,t,WooCommerce,The website has an e-shop where users can add experiences to a cart and proceed to checkout.,llm_markdown_v1,Prague City Tourism,Czech Republic,EU
+thesoulspa.co.uk,f,,The website does not feature an online booking system; it primarily provides contact information for reservations.,llm_markdown_v1,The Curious Soul,United Kingdom,EU
+gite-barca-cinqueterre.com,f,,"The website only offers contact forms and phone numbers for inquiries, with no online booking system present.",llm_markdown_v1,L'Acciughina,Italy,EU
+oxigentour.ro,t,,"The site has clear booking UI with 'Rezerva acum' buttons and pricing, but no known booking platform integration.",llm_html,Oxigen Travel Nature,Romania,EU
+evtt-provence.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,Evtt Provence,France,EU
+bura-adventure.com,t,,"The site has multiple 'More Info' buttons and service details, indicating booking options, but no known platform integration.",llm_html,Bura Adventure,Croatia,EU
+13nails.net,f,,The content does not mention any online booking system or relevant booking platforms.,llm_markdown_v1,,,
+explorana.no,t,,"The site has clear booking UI with a 'Les og book HER' link for guided tours, indicating online booking capability.",llm_html,Explorana,Norway,EU
+surfschoolcactus.com,t,,"The site has a 'Book now!' button leading to a booking page, indicating online booking capability.",llm_html,Surf School Cactus,Spain,EU
+myparisriver.com,f,,The website does not provide an online booking system; it only offers links for more information and contact options.,llm_markdown_v1,Paris River Cruise,France,EU
+cadburyworld.co.uk,t,,"The site has multiple 'Book Now' buttons and clear pricing, indicating an online booking system without a known platform.",llm_html,Cadbury World Merlin,United Kingdom,EU
+aclimatando.com,t,Regiondo,"The website uses Regiondo for booking, with clear options to book experiences and pay directly.",llm_html,Aclimatando Experiencias De MontañA,Spain,EU
+donaldshighlandtours.com,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Donald’S Highland Tours,United Kingdom,EU
+123taxihrg.com,t,Bokun,"The site uses Bokun for online bookings, indicated by the presence of Bokun buttons and related content.",llm_html,,Egypt,EU
+navegasintitulo.com,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Navega Sin Titulo Sitges Rent Boat,Netherlands,EU
+sealifepalermo.it,f,,The website does not mention any online booking system or platforms; it primarily provides information and contact options.,llm_markdown_v1,Sealifepalermo,Italy,EU
+alegranzaexperience.com,t,,"The site has a 'BOOK NOW' button linked to an external booking page, indicating online booking capability.",llm_html,Alegranza Experience,Spain,EU
+mercattours.com,t,,"The site has multiple 'book now' buttons and a checkout link, indicating online booking capability.",llm_html,Mercat Tours,United Kingdom,EU
+olympictransferkefalonia.com,f,,The website does not provide an online booking system; it only offers contact via phone or email for reservations.,llm_markdown_v1,Olympic Transfer Kefalonian Tours,Greece,EU
+northwestirelandtours.com,t,,"The website has 'BOOK or ENQUIRE' links for various tours, indicating an online booking system.",llm_markdown_v1,Northwest Sherpa Tours,Ireland,EU
+setimaondaboattrips.com,t,FareHarbor,"The website contains an iframe from FareHarbor, indicating an online booking system is available.",llm_html,SéTima Onda Boat Trips,Netherlands,EU
+seagulldubrovnik.com,t,Stripe,"The provider allows bookings through their website with payment processing via Stripe, indicating an online booking system.",llm_markdown_v1,Seagull Dubrovnik - Private Boat Tours,Croatia,EU
+venicecitytours.it,t,TripAdvisor,The site mentions 'Sistema di prenotazione di TripAdvisor' indicating an online booking system.,llm_html,City Tours Co,Italy,EU
+buggy-dubrovnik.com,t,,"The site has multiple 'Book Now' buttons and clear pricing plans, indicating an online booking system without a known platform.",llm_html,Buggy Dubrovnik,Croatia,EU
+3bridgesraft.com,t,FareHarbor,"The website includes an iframe from FareHarbor, indicating online booking capability.",llm_html,,United States,NA
+trompenburg.nl,t,WooCommerce,The website has an online shop with products that can be added to a cart and purchased directly.,llm_markdown_v1,Trompenburg Tuinen & Arboretum,Netherlands,EU
+wildkerrydaytours.com,t,,The site has clear booking UI with options to select tours and a 'Select Options' button for booking.,llm_html,Wild Kerry Daytours,Ireland,EU
+seelondonbynight.com,t,,"The site has a 'Book Online' button leading to a booking page, indicating online booking capability.",llm_html,See London By Night,United Kingdom,EU
+santorinichaniotistravel.com,t,,"The site has clear booking UI with buttons like 'Book your transfer here' and 'DISCOVER OUR TOURS', indicating booking capability.",llm_html,Chaniotis Travel Santorini,Greece,EU
+aroundfreedom.pt,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is in place.",llm_html,Aroundfreedom,Portugal,EU
+noroads.com.au,f,,The website does not provide an online booking system; it focuses on guided tours without direct booking options.,llm_markdown_v1,No Roads Expeditions,Australia,OC
+adriaticpartner.com,f,,The website does not provide an online booking system; it only offers contact forms and requests for quotes.,llm_markdown_v1,Klik Holidays,Croatia,EU
+360jump.regiondo.de,t,Regiondo,"The website uses Regiondo for booking, as indicated by the URLs containing 'regiondo.de' and a checkout link.",llm_html,,,EU
+terraincognita.pt,t,FareHarbor,"The website uses FareHarbor for online bookings, indicated by the presence of a shopping cart and booking options.",llm_markdown_v1,Atlantic Teams And Regattas,Portugal,EU
+worldofefoil.com,t,,"The site has a 'Book now' button for courses, indicating online booking capability, but no known platform is identified.",llm_html,World Of Efoil,Germany,EU
+alcantarabikes.it,t,,"The site has a 'BOOKINGS' button that links to a booking page, indicating online booking capability.",llm_html,Alcantara Bike,Italy,EU
+padmaholidays.com,t,,"The site has clear booking UI with 'view this tour' buttons and pricing, indicating online booking capability.",llm_html,Padma Holidays,India,AS
+discover-eagles-nest.com,t,,"The site has a 'Book a Tour' button linking to a booking page, indicating online booking capability.",llm_html,Discover Eagle's Nest,Germany,EU
+adventuretrikes.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Pursuit Adventure,Netherlands,EU
+clickandquads.com,t,,"The site has clear booking UI with 'Más información' links leading to detailed tour pages, indicating booking options.",llm_html,Click And Quads,Spain,EU
+bigbluediving.net,t,BlooWatch,"The website bigbluediving.net has 'Book now' links that lead to an embedded booking system hosted on their own domain with BlooWatch platform, allowing customers to select and pay for diving experiences directly on the site.",linkup_deep_v1,Avispa Labs,Spain,EU
+thehickorygolfworkshop.com,t,Beyonk,The website has multiple 'BOOK NOW' links leading to booking pages with embedded Beyonk booking widgets allowing date and guest selection for experiences.,,The Hickory Golf Workshop,,
+bff-bonn.com,t,,"The site has multiple 'Jetzt buchen' buttons and clear booking UI, but no known platform integration.",llm_html,Bff,Germany,EU
+thecheftours.com,f,,No clear booking UI or known booking platform found; only links to tour pages.,llm_html,Sas Windmill,France,NA
+about.me,t,,"The site mentions capturing leads and booking appointments with Google, indicating a booking capability.",llm_html,Rodolfo Fregoso Adame,,EU
+italycyclingtour.it,t,FareHarbor,The website contains multiple 'Book Now' buttons linking to FareHarbor for booking experiences.,llm_html,Italy Cycling Tour,Italy,EU
+aziendaagricolagalano.com,f,,The website does not provide any online booking system or direct payment options; it only offers contact forms for inquiries.,llm_markdown_v1,Acwl,Italy,EU
+cultival.fr,t,,"The site has clear booking UI with links to book experiences and prices displayed, but no known booking platform was found.",llm_html,Cultival,France,EU
+marioviennaguide.com,t,,"The site has multiple 'Book now' buttons and links to specific tours, indicating a booking system, but no known platform was identified.",llm_html,Casalone Mario,Austria,EU
+lanternghosttours.com,t,,"The site has multiple 'BOOK NOW' buttons for tours, indicating a booking system, but no known platform was identified.",llm_html,Lantern Ghost Tours Limited,Australia,OC
+movviendo.com,f,,No online booking system or direct booking options found on the website.,llm_markdown_v1,Movviendo Tourism Group,Spain,NA
+mondevertical.com,t,,"The website mentions 'réservez sur notre site internet', indicating an online booking system, but no specific platform is identified.",llm_markdown_v1,Monde Vertical,France,EU
+koekainuu.fi,f,,No evidence of an online booking system or payment options found in the scraped content.,llm_markdown_v1,Koe Kainuu,Finland,EU
+3421384.com,t,FareHarbor,The website contains multiple links to FareHarbor for booking services directly.,llm_html,,,NA
+heartoflofoten.org,f,,The website does not have an online booking system; it offers customizable tours but requires contact for reservations.,llm_markdown_v1,Andrea Selva,Norway,EU
+navaliacanarias.com,f,,The website does not feature any online booking system or payment options for experiences.,llm_markdown_v1,Navalcan Servicios Tecnicos,Spain,EU
+visitvigata.com,f,,"The website only provides contact information for reservations, with no online booking system or payment options.",llm_markdown_v1,Visit Vigata,Italy,EU
+arnauticasalerno.it,t,,"The website has clear booking UI with options to select and book various vehicles, but no known booking platform was found.",llm_html,Ar Nautica Salerno,Italy,EU
+timetravels.fi,t,,"The site has clear booking UI with 'Book now' buttons and availability indicators, but no known booking platform was identified.",llm_html,Aikamatkat,Finland,EU
+luxurytransferservices.com,t,,"The site has a booking form with date pickers and a 'Book now' button, indicating online booking capability.",llm_html,The Daig Jiz Taxi,Netherlands,EU
+chessington.com,t,,"The site has multiple 'Book Now' buttons and clear booking UI, but no known booking platform detected.",llm_html,Chessington World Of Adventures,United Kingdom,EU
+advaitaadventures.lv,t,,"The site has clear booking UI elements like 'Book now' and pricing, but no known booking platform was identified.",llm_html,D6 Group,Latvia,EU
+minicrociere.tarnav.it,t,,"The site has a booking form with a date picker and a purchase button, indicating online booking capability.",llm_html,Tarnav,Italy,EU
+daivoon.com,f,,The website does not provide a direct online booking system; it only offers links to contact for reservations.,llm_markdown_v1,Daivoon Diving Center,Spain,EU
+uncomfortableoxford.com,t,,"The site has a 'BOOK NOW' button leading to a booking page, indicating online booking capability.",llm_html,Uncomfortable Oxford,United Kingdom,EU
+nds-malta.com,t,,"The site has clear booking UI with 'Book your diving for 2025' and 'dive packages' buttons, indicating online booking capability.",llm_html,New Dimension Scuba,Malta,EU
+aroopa.travel,t,,"The site has a date picker and a search button for tours, indicating online booking capability.",llm_html,Aroopa Travel,Austria,EU
+pedalcruises.com,t,,"The site has a 'Book now' link and mentions reservations, indicating an online booking system.",llm_html,Eventium Desarrollo Y Gestion,Spain,EU
+etnavic.com,t,,"The site has clear booking UI with multiple tour options and 'Book now' buttons, but no known booking platform was identified.",llm_html,Baricordi Monica,Italy,EU
+mountainmarcus.com,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Mountain Marcus,Netherlands,EU
+romanianmapletours.com,t,,"The site has a booking form with destination selection and a submit button, indicating online booking capability.",llm_html,Romanian Maple Tours,Romania,EU
+dusseldorf-tour.com,t,,"The site has multiple 'Book now' buttons linking to a booking page, indicating online booking capability.",llm_html,Naturanda Turismo Ambiental,Germany,EU
+kitelab.info,f,,The website does not offer an online booking system; it requires inquiries via email or contact form.,llm_markdown_v1,Kite Lab,Italy,EU
+privatetourtenerife.com,t,WooCommerce,"The site has 'Add to basket' functionality and displays prices for tours, indicating an online booking system.",llm_markdown_v1,Private Tour Tenerife,Spain,SA
+glarakicruises.com,t,,"The site has a 'Book now!' button and mentions booking options, but lacks a known platform or clear checkout flow.",llm_html,Glaraki Cruises,Greece,EU
+1670tours.com,t,FareHarbor,"The website uses FareHarbor for online booking, as indicated by the iframe and related URLs.",llm_html,1670 Tours,Netherlands,NA
+krkboattrip.com,f,,The website does not have an online booking system; payments are made in cash or via PayPal on the day of the excursion.,llm_markdown_v1,Beach Taxi Punat,Croatia,EU
+mylondontourguide.com,t,,"The website has a booking form link for tours, allowing customers to book directly online.",llm_markdown_v1,My London Guide,United Kingdom,EU
+walters.lv,t,,"The site has a date picker and a booking form for reservations, indicating online booking capability.",llm_html,Walters,Latvia,EU
+italianfactorymotortour.com,f,,The website does not provide an online booking system; it lacks direct booking buttons or checkout features.,llm_markdown_v1,Promobici,Italy,EU
+humrahe.com,t,,"The site has multiple 'Book Now' buttons and displays pricing, indicating an online booking system.",llm_html,Humrahe,,EU
+londontourcompany.co.uk,t,,"The site has clear booking UI with 'Find a Tour' and 'DISCOVER TOURS' buttons, indicating booking capability.",llm_html,Tourope Uk,United Kingdom,EU
+xalam.nl,t,FareHarbor,"The website contains an iframe from FareHarbor, indicating online booking capability.",llm_html,Xalam,Netherlands,EU
+socasplash.com,t,,"The website has 'Book now' buttons and a 'Rezerviraj si svoj termin' link, indicating an online booking system.",llm_markdown_v1,Likona,Slovenia,EU
+leprovidence.fr,t,,"The site has multiple 'RÉSERVEZ VOTRE SORTIE' buttons linking to a reservation page, indicating online booking capability.",llm_html,Maxi-Catamaran Providence,France,EU
+renatalanzoni.com,f,,"The website primarily offers books for sale and events, with no online booking system for experiences.",llm_markdown_v1,Renata Lanzoni,United Kingdom,EU
+passengerdiaries.com,f,,The scraped content does not indicate any online booking system or direct booking options.,llm_markdown_v1,Passenger Diaries Swiss Tours,Switzerland,EU
+mobydickcharter.com,t,,"The site has a 'RESERVA AHORA / BOOK NOW' button linking to a booking page, indicating online booking capability.",llm_html,Valestep Proyectos Y Servicios Integrales,Spain,EU
+osrodek.roza.pl,t,,The site has a clear booking button labeled 'REZERWUJ POBYT' leading to a reservation page.,llm_html,OśRodek RóżA WiatróW,Poland,EU
+privatetoursmallorca.com,t,,"The site has a date picker and a search form for activities, indicating online booking capability.",llm_html,Mallorca Island Tour Guide,Spain,EU
+mykonostourvan.com,f,,No clear booking system or known platform found; only links to tour details without booking options.,llm_html,Ilias Filios,Greece,EU
+alpenair.de,t,,"The site has multiple 'Rundflug buchen' buttons leading to booking pages, indicating online booking capability.",llm_html,Alpen Air Aviation,Germany,EU
+almadecreta.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Alma De Creta,Netherlands,EU
+franceraft.com,f,,"The site requires reservations via email or phone, with no online booking system or payment options available.",llm_markdown_v1,Eau Vive Aventures,France,EU
+italydolomites.com,t,,"The website features multiple 'INFO & PRICE' links for tours, indicating an online booking system, but no specific platform is mentioned.",llm_markdown_v1,As Chess Services Alexander,Italy,EU
+lemnoswinetrails.gr,t,,"The site has a 'Book' button linking to a tour page, indicating online booking capability, but no known platform was found.",llm_html,Konstantara Eleph,Greece,EU
+outdooradventureshungary.com,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Kulcsar Gyorgy,Hungary,EU
+poseidoncyprus.com,t,,"The site has clear booking UI elements like 'Book now' and product listings, but no known booking platform was identified.",llm_html,Poseidon Dive Centre,Cyprus,EU
+quadadventure.fr,t,,"The site has clear booking buttons with links to specific booking pages, indicating online booking capability.",llm_html,Quad Adventure Paris,France,EU
+giteinbarca.it,t,,"The site has a clear booking button labeled 'Prenota' and provides a link for online reservations, indicating booking capability.",llm_html,"Lady Luna 3, Family Sea",Italy,EU
+stadtlandtour.de,f,,The scraped content does not indicate any online booking system or direct payment options.,llm_markdown_v1,Stadtlandtour,Germany,EU
+koseligmoments.com,t,,"The site has a date picker, guest selector, and booking buttons indicating online booking capability.",llm_html,Koselig Moments Viegas,Norway,NA
+gocanyoningmadeira.com,t,,"The site has a 'Book Now' button linking to a booking page, indicating online booking capability.",llm_html,Daniel Caré Ferreira,Portugal,EU
+dailytoursfromathens.com,t,,"The site has a date picker, price display, and a 'Search' button indicating booking capability, but no known platform.",llm_html,Georgios Mavrogiannakis Ioannis,Greece,EU
+castlexperience.com,t,,"The site has a date picker and clear booking UI with price displayed, indicating online booking capability.",llm_html,Castlexperience,Spain,EU
+wowzurich.com,t,Rezgo,The site has multiple 'BOOK NOW' buttons linking to Rezgo for booking tours directly.,llm_html,Wow Zurich Tours,Switzerland,EU
+fortandrobins.it,t,GetYourGuide,The website mentions using third-party payment applications like GetYourGuide for reservations.,llm_markdown_v1,Fort And Robins Tours,Italy,EU
+absoluparapente.com,t,,"The site has multiple 'Book Now' buttons and clear booking UI, but no known booking platform was identified.",llm_html,Absolu Parapente,France,EU
+trekkingbaunei.it,f,,The content does not indicate any online booking system or direct payment options.,llm_markdown_v1,Explorando Supr.Te,Italy,EU
+blue-daily-cruises.com,t,,"The site has a 'BOOK NOW' button and mentions booking tickets, indicating an online booking system.",llm_html,Blue Cruises Ierapetra,Greece,EU
+medseacruises.gr,t,,"The site has a 'BOOK NOW' button linking to a booking page, indicating online booking capability.",llm_html,Mediterranean Sea Cruises,Greece,EU
+transferme.ie,t,,"The site has a 'Book Now' button and mentions booking services, but no known booking platform is embedded.",llm_html,Peter SzecsöDi,Ireland,EU
+rijeka-adventures.com,f,,No evidence of an online booking system or relevant booking platform mentioned in the content.,llm_markdown_v1,Rijeka Adventures,Croatia,EU
+ansdivingischia.it,t,,"The site has clear booking UI with 'Experiences' and 'Book now' buttons, indicating online booking capability.",llm_html,Ans Diving Ischia,Italy,EU
+justgotours.pt,t,,"The site has a booking form with a 'Book this jeep tour' button and a submission form, indicating online booking capability.",llm_html,Just Go Tours Madeira,Portugal,EU
+tenerife.com,t,,"The site has a reservation form with a date picker and a submit button, indicating online booking capability.",llm_html,Bahia Cars,Spain,EU
+canterburyguidedtours.com,t,,"The site has a 'Book your tickets online now' button linking to a booking page, indicating online booking capability.",llm_html,Canterbury Tourist Guides,United Kingdom,EU
+seahorsecruisesmalta.com,t,,"The site has multiple 'Book Now' buttons with pricing and descriptions, indicating an online booking system.",llm_html,Owen Anthony Calleja,Malta,EU
+menorca.es,t,GetYourGuide,"The site includes an iframe from GetYourGuide, indicating online booking capability.",llm_html,Fundació Foment Del Turisme De Menorca,Spain,EU
+sardiniagrandtour.com,t,,"The website has a booking form with options for category and level of support, along with a 'Search' button indicating booking capability.",llm_html,Mediterras,Italy,EU
+agiosnikolaosboatrent.com,t,,"The site offers multiple tours with detailed descriptions and 'more' links, indicating booking options, but no known platform was found.",llm_html,Geleos Nikolaos,Greece,EU
+draytonmanor.co.uk,t,,"The site has multiple 'Book Now' buttons and a guest selector, indicating online booking capability.",llm_html,Drayton Manor,United Kingdom,EU
+groovybrussels.com,t,,"The site has clear booking buttons and links to a booking page, indicating online booking capability.",llm_html,Groovy Tours,Belgium,EU
+perfectcharter.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is in place.",llm_html,Perfect Charter,Netherlands,EU
+karika-vodice.com,t,,"The site has a booking form with a date picker and required fields for booking, indicating online booking capability.",llm_html,Karika,Croatia,EU
+escursionibarcacarloforte.it,t,,"The site has clear booking UI with 'Prenota ora la tua escursione!' and pricing details, but no known booking platform.",llm_html,Golfo Di Palmas,Italy,EU
+onvol.net,f,,The content does not mention any online booking system or relevant booking platforms.,llm_markdown_v1,Luzzu Cruises,Malta,EU
+sailnfun.com,t,,"The site has multiple 'BOOK NOW' buttons leading to a booking page, indicating online booking capability.",llm_html,Sail 'N Fun,Italy,EU
+greca.co,t,,"The site has a date picker, booking button, and price display, indicating an online booking system.",llm_html,Greca Travel,Greece,SA
+ouryogamind.com,t,Momoyoga,"The website uses Momoyoga for online bookings, allowing users to book and pay for experiences directly.",llm_markdown_v1,Our Yoga Mind,Spain,EU
+chefparade.hu,t,,"The site has a calendar for course selection and booking buttons, indicating online booking capability.",llm_html,Chef-Parade,Hungary,EU
+laplandxtours.com,t,Bokun,"The website uses Bokun for online bookings, indicated by 'Book Now' buttons linking to Bokun's booking engine.",llm_markdown_v1,Lapland X Tours,Finland,EU
+lakelandgte.fi,t,,"The site has a date picker, participant selector, and booking buttons indicating online booking capability.",llm_html,Lakeland Gte,Finland,EU
+scubaelx.com,t,,The website has a 'RESERVA ONLINE AQUÍ Y ASEGURA TU PLAZA' link for online booking of snorkeling activities.,llm_markdown_v1,Scuba Nautic,Spain,EU
+menorcapaddlesurf.com,t,Booknetic,"The site has a booking system with multiple steps for selecting services, dates, and confirming bookings.",llm_html,Menorca Paddle Surf,Spain,EU
+escaperoom.dk,t,,"The site has multiple 'Book' buttons and links to a booking page, indicating online booking capability.",llm_html,Escape Room By Midgaard Event,,EU
+johka.fi,f,,The website does not provide an online booking system; it only offers contact forms and phone/email for reservations.,llm_markdown_v1,Johka,Finland,EU
+ziegen-hof.de,f,,No booking system or UI elements found; only links to information and contact options.,llm_html,Ziegenhof KöNigstein,Germany,EU
+lamialiguria.it,f,,The content does not mention any online booking system or relevant booking platforms.,llm_markdown_v1,Thalassa Outdoor Adventure,Italy,EU
+team-game.de,t,,"The site has a 'JETZT BUCHEN' button linking to a booking page, indicating online booking capability.",llm_html,Team Game Gmbh,Germany,EU
+vossfolkemuseum.no,f,,The content mentions booking for groups via phone but lacks an online booking system or platform.,llm_markdown_v1,Voss Folkemuseum,,EU
+outlook.my,f,,The scraped content does not mention any online booking system or relevant booking platforms.,llm_markdown_v1,Trevohub Tours And Travel,United States,AS
+emotions-tours.com,t,,"The site has multiple 'Book now' buttons and clear booking UI, but no known booking platform was identified.",llm_html,Algarve Emotions,Portugal,EU
+familygolfpark.pt,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Family Golf Park Vilamoura,Portugal,EU
+morganasailingcharter.com,f,,No clear booking UI or known booking platform found. Only contact options and social media links present.,llm_html,Morgana Sailing,Italy,EU
+mountain-goat.com,t,,"The website features multiple 'View Tour' buttons with pricing, indicating an online booking system.",llm_markdown_v1,Mountain Goat,United Kingdom,EU
+euroetnatourism.it,t,,"The site has clear booking UI with links to book tours, but no known booking platform was found.",llm_html,Euroetna Tourism Service,Italy,EU
+belfastmillietours.com,f,,The website does not contain any online booking system or relevant booking platform integrations.,llm_markdown_v1,Belfast Millie Tours,United Kingdom,EU
+oceanario.pt,t,,The site has multiple links to ticket purchasing pages with clear booking UI elements like 'Buy tickets' and 'Reserve now'.,llm_html,OceanáRio De Lisboa,Portugal,EU
+rome-limousines.com,t,,"The website has a 'Booking request' button that suggests booking capability, but no known platform is identified.",llm_html,Rome-Limousines,Italy,EU
+wildfuerteventura.surf,t,,"The site has a 'Reserva AHORA' button with a price displayed, indicating a booking option, but no known platform was found.",llm_html,Fuerte Salvaje,Spain,EU
+theredbicycle.org,t,,"The site has a date picker and booking buttons, indicating online booking capability without a known platform.",llm_html,The Red Bicycle,Italy,EU
+gabrielwatersports.com,t,WooCommerce,"The website has 'Book Full Day', 'Book Morning', and 'Book Afternoon' buttons leading to a checkout process.",llm_markdown_v1,Gabriel,Croatia,EU
+companywall.hr,f,,No evidence of an online booking system or relevant booking platforms found in the scraped content.,llm_markdown_v1,Mari-Eta,Croatia,EU
+pbike.pt,t,,"The site has clear booking UI with 'Reserva já' buttons linking to an online scheduling page, indicating booking capability.",llm_html,Joana Sobral Gomes,Portugal,EU
+letsbikesardinia.com,t,Regiondo,"The website uses Regiondo for booking, indicated by the presence of 'regiondo-widget' and booking buttons.",llm_html,Let'S Bike Sardinia,Italy,EU
+firstchoicetravel.gr,t,,"The site has multiple 'Book Now' buttons and clear booking UI, but no known booking platform embed.",llm_html,Firstchoice Travel,Greece,EU
+traveller.ee,f,,The content indicates no online booking system; tickets must be purchased at counters or through external websites.,llm_markdown_v1,Artguide,Estonia,EU
+maidenheadheritage.org.uk,t,,"The site has clear booking signals with 'BOOK YOUR OCTOBER HALF TERM SPITFIRE FLIGHTS NOW' and a 'Read more' link, indicating booking capability.",llm_html,Maidenhead Heritage Centre,United Kingdom,EU
+sailemotions.com,f,,The website does not provide an online booking system; it only offers contact options for inquiries.,llm_markdown_v1,Experience Emotions,Spain,EU
+royalline.fi,t,,"The site has 'Osta nyt' buttons for purchasing tickets, indicating a booking system, but no known platform was identified.",llm_html,Royal Line,Finland,EU
+royalline.ee,t,,"The site has multiple 'Book Now' buttons and links to book cruises, indicating online booking capability.",llm_html,Royal Line Estonia,Estonia,EU
+hamburg-tours.com,t,,"The site has multiple 'Jetzt buchen' buttons, indicating booking capability, but no known booking platform was found.",llm_html,Hamburg Tours,Germany,EU
+rrobertsonandson.com,f,,"The website only provides contact forms and enquiry links, with no direct online booking or payment options.",llm_markdown_v1,R Robertson & Son,United Kingdom,EU
+24hoursinsydney.com.au,t,FareHarbor,"The website uses an iframe from FareHarbor, indicating an online booking system is available.",llm_html,,Australia,OC
+calagononecrociere.it,t,,"The site has a clear booking button for purchasing tickets, indicating online booking capability.",llm_html,Nuovo Consorzio Trasporti Marittimi,Italy,EU
+air-service-berlin.de,t,,"The site has clear booking UI elements like 'Book now' buttons and descriptions of experiences, but no known booking platform was found.",llm_html,Air Service Berlin Cfh,Germany,EU
+kotatuli.fi,t,Stripe,"The website allows direct booking and payment through Stripe, indicating an online booking system.",llm_markdown_v1,Kotatuli,Finland,EU
+madeirawatersports.com,t,,"The site has multiple 'Book now' buttons for activities, indicating an online booking system, but no known platform was identified.",llm_html,Madeira Watersports,Portugal,EU
+gosharkazores.com,t,,"The site has multiple 'BOOK NOW' buttons and clear activity descriptions, indicating a booking system, but no known platform was found.",llm_html,Go Shark Azores,Portugal,EU
+riverboat-heidelberg.de,t,,"The site has multiple 'Jetzt buchen' buttons leading to booking pages, indicating online booking capability.",llm_html,Riverboat Event,Germany,EU
+1692beforeandafter.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,,,NA
+storytourist.com,t,,"The site has 'Add to cart' buttons and a shopping cart flow, indicating online booking capability.",llm_html,Velodrom Ab,Finland,EU
+fastropemadeira.com,t,,"The site has a date picker, participant selector, and multiple 'Book now' buttons indicating online booking capability.",llm_html,"LuíS, Leonel & David",Portugal,EU
+picster.co,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,Picster,Netherlands,SA
+enjoythearctic.no,t,,"The website offers direct booking options for tours with clear 'Book Now' links, indicating an online booking system.",llm_markdown_v1,Enjoy The Arctic,Norway,EU
+safariclub.gr,t,,"The site has clear booking UI elements like 'Book now' buttons and a shopping cart, but no known booking platform was identified.",llm_html,Safari Club,Greece,EU
+framtours.net,t,Rezdy,"The site has a link to Rezdy for booking activities, indicating an online booking capability.",llm_html,Fram Tours,Norway,EU
+theeasywayvalencia.com,f,,No clear booking system or known platform found; only links to rental pages without booking functionality.,llm_html,The Easy Way,Spain,EU
+pompeiitourguide.com,t,,"The site has a 'Book now' button that leads to a booking page, indicating online booking capability.",llm_html,Ai Re Pazzi,Italy,EU
+meridian4people.pt,t,,"The site has clear booking UI with multiple 'Book now' buttons and pricing displayed, indicating online booking capability.",llm_html,Meridian4people,Portugal,EU
+animatoscana.it,t,,"The site has a booking form with options to search and select tours, indicating online booking capability.",llm_html,Anima Toscana,Italy,EU
+yorkpass.com,t,,"The site has a 'Buy Visit York Pass' button that leads to a purchase page, indicating online booking capability.",llm_html,Make It York Limited,United Kingdom,EU
+kangelo.com,t,,"The website has a date picker and a 'Search' button indicating booking capability, but no known platform was found.",llm_html,Kangelo Adventures,,EU
+3zero.it,t,,"The website offers a 'Book Now' option for wine tastings, indicating an online booking system.",llm_markdown_v1,3zero,Italy,EU
+saltireexecutivetravel.com,t,,"The site has multiple 'Book your tour' buttons leading to booking pages, indicating online booking capability.",llm_html,Saltire Executive Golf,United Kingdom,EU
+positanofishingexperience.it,f,,The website only provides a contact form for inquiries and does not have an online booking system.,llm_markdown_v1,Positano Fishing Experience,Italy,EU
+oslowalkingtours.com,f,,The website does not display any online booking system or payment options for tours.,llm_markdown_v1,Oslo Walking,,
+flug-taxi.ch,t,,"The site allows online registration for experiences with clear booking UI, but no known booking platform was identified.",llm_html,Flug-Taxi,Switzerland,EU
+gardatours.com,t,,The website offers direct booking options for scheduled tours with prices and 'Discover' buttons leading to checkout.,llm_markdown_v1,Garda Tours,Italy,EU
+ladolcevienna.at,t,,"The site includes a section to select experiences and dates for reservations, indicating an online booking system.",llm_markdown_v1,La Dolce Vienna,Austria,EU
+brezntours.de,t,brezntours.de,"The website includes direct booking links for tours, indicating an online booking system.",llm_markdown_v1,Brezntours,Germany,EU
+asftravel.com,t,,"The site has a reservation form and 'Book Now' buttons, indicating online booking capability without a known platform.",llm_html,Asf,France,EU
+sorrento-tourservice.it,f,,The website does not have an online booking system; it only offers contact forms and phone numbers for inquiries.,llm_markdown_v1,D'Auria Paolo,Italy,EU
+venereboattours.com,t,,"The site has a contact form for booking inquiries and mentions personalized tours, indicating booking capability.",llm_html,Venere Boat Tours,Italy,EU
+pierschool.it,f,,The website does not have an online booking system; it only provides contact information for inquiries.,llm_markdown_v1,Pierschool,Italy,EU
+hellenicprivatetours.com,t,,"The site has multiple 'Book Now' buttons and clear booking UI, but no known booking platform was identified.",llm_html,H.P.Tours,Greece,EU
+christospapphotography.com,f,,The website does not provide an online booking system; it only mentions contact details for inquiries.,llm_markdown_v1,Christos Pap Photography,Greece,EU
+bootla.pt,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is in place.",llm_html,Bootla Tours,Portugal,EU
+mountain-ride.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,Mountainride La Palma,Netherlands,EU
+discoverlithuania.biz,t,,"The site mentions 'super easy online booking' and has multiple 'Learn More' buttons, indicating booking capability.",llm_html,Discover Lithuania,Lithuania,EU
+amalficoastmyway.com,t,,"The site has a booking form with a date picker, participant selector, and a submit button, indicating booking capability.",llm_html,Amalfi Coast My Way,Italy,EU
+xltour.fr,f,,No booking system or UI elements found; only a call to action to book without a direct booking interface.,llm_html,Xl Tour,France,EU
+chiantiwinetour.com,t,,"The site has a 'BOOK NOW' button and mentions 'Easy & Secure Booking' and 'Instant confirmation', indicating online booking capability.",llm_html,Fun In Tuscany,Italy,EU
+londontopsightstours.com,t,Rezdy,The site has multiple 'BOOK NOW' buttons linking to Rezdy for booking tours directly.,llm_html,Top Sights Tours,United Kingdom,EU
+bathbeertours.com,t,,"The site has a 'Book Now' button linking to a booking page, indicating online booking capability.",llm_html,Bath Beer Tours,United Kingdom,EU
+apollon-seacrets.gr,t,,"The site has multiple 'BOOK NOW' buttons, indicating a booking UI, but no known booking platform was found.",llm_html,Apollon Seacrets,Greece,EU
+biketournapoli.com,t,,"The site has clear booking options with buttons to 'rent a bike' and 'book the kayak', indicating online booking capability.",llm_html,Birev,Italy,EU
+ragitour.com,t,,"The site has a 'BOOK NOW' button that leads to a booking page, indicating online booking capability.",llm_html,Ra.Gi.Tour,Italy,EU
+greece-revealed.com,f,,The website does not have an online booking system; it only offers a 'Request Quote' option.,llm_markdown_v1,Greece Revealed,Greece,EU
+elixir-vitae.eu,f,,No clear booking system or UI signals found; only links to more information about training programs.,llm_html,Elixir Vitae Studio,France,EU
+mybesttour.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system.",llm_html,My Best Tour,Netherlands,EU
+prestige-evasion.com,t,,"The site has a date picker and a 'RECHERCHER' button for booking, indicating online booking capability.",llm_html,Prestige Evasion,France,EU
+camaleontours.es,t,FareHarbor,"The website uses an iframe from FareHarbor, indicating an online booking system is available.",llm_html,Camaleon Tours Spain,Spain,EU
+goquestadventures.com,f,,The scraped content does not indicate an online booking system; it lacks booking buttons or checkout features.,llm_markdown_v1,Go Quest Adventures Limited,United Kingdom,EU
+cambridgepuntcompany.co.uk,t,,"The site has 'Book now' buttons for tours, indicating online booking capability, but no known booking platform was identified.",llm_html,Cambridge Punting Company,United Kingdom,EU
+caseneuvemaxicatamaran.com,t,,The site has clear booking UI with multiple 'Réserver' buttons and options for selecting activities and pricing.,llm_html,Caseneuve Maxi Catamaran,France,EU
+portosantobuggy.com,t,,"The site has multiple 'Reservar' buttons leading to booking pages, indicating an online booking system.",llm_html,Oporto Buggy Adventure,Portugal,EU
+azoresholidays.pt,t,FareHarbor,The website has a 'Book now Activities!' button linking to FareHarbor for online bookings.,llm_html,Anc Azores Holidays,,
+bluecavetours.com,t,,"The site has a 'Book now' button with a link to a booking page, indicating online booking capability.",llm_html,Misericordia,Croatia,EU
+experiencebellavita.com,t,FareHarbor,"The website uses FareHarbor for booking, indicated by the presence of a checkout and cart system.",llm_markdown_v1,Experience Bellavita,Italy,EU
+croatia-adventure.com,t,,"The site has clear booking UI with options to book experiences, but no known booking platform was identified.",llm_html,Dal Mare,Croatia,EU
+basqueguides.com,f,,The website does not display any online booking system or direct payment options; it primarily offers contact information for inquiries.,llm_markdown_v1,Basque Guides,Spain,NA
+lokafy.com,t,,"The site has a 'Book a Tour' button, indicating booking capability, but no known platform integration was found.",llm_html,Lokafy,Canada,NA
+sailingexperiencebcn.com,t,,"The site has a booking form with guest selection and 'Add to cart' buttons, indicating direct booking capability.",llm_html,Sail Experience Holiday,Spain,EU
+segwaycitytoursamsterdam.com,t,,"The site has multiple 'Book now' buttons and clear booking UI, but no known booking platform integration.",llm_html,Segway City Tours Amsterdam,Netherlands,EU
+darktalesofyork.com,t,TripAdmit,The site has a 'Book Now' button linking to TripAdmit for booking and payment.,llm_html,Dark Tales Of York,United Kingdom,EU
+vilosquads.com,t,,"The site has multiple 'BOOK' buttons with prices displayed, indicating an online booking system, but no known platform was identified.",llm_html,Vilosquads,Spain,EU
+aureliabikes.com,t,,"The site has clear booking UI with options to book a guided tour and rent an e-bike, but no known booking platform was found.",llm_html,Aurelia,Greece,EU
+photoexploring.com,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Better Moments,Netherlands,EU
+santoriniridingcenter.com,t,,"The site has a 'Reservation' button indicating booking capability, but no known platform was identified.",llm_html,Anastasopoulos Alexandros,Greece,EU
+lexaexcursions.com,t,,"The site has multiple 'Book now' buttons with prices displayed, indicating a booking system, but no known platform was found.",llm_html,Travel Intentions,Italy,EU
+madrid-segway.com,t,,"The site has multiple 'Reserve now' buttons and links to book tours, indicating online booking capability.",llm_html,Madrid Segway,Spain,EU
+cooperativaterracha.pt,t,,"The site has a date picker, a booking form, and a submit button indicating online booking capability.",llm_html,Cooperativa Terra Chã,Portugal,EU
+offshore-surfschool.com,t,Rezgo,"Found a booking link for surf school bookings, indicating an online booking system.",llm_html,Offshore Surf School,Portugal,EU
+greenlinetours.com,t,,"The site has clear booking UI with 'Discover more' buttons leading to tour details, indicating online booking capability.",llm_html,Green Line Tours,Italy,EU
+nautipic.com,t,,"The website has links to view prices and book experiences directly, indicating an online booking system.",llm_markdown_v1,Comercial Trck,Spain,EU
+swanky-travel.com,f,,The website uses inquiry forms for booking instead of an online booking system.,llm_markdown_v1,Destinacija Senzacija,Croatia,EU
+manosdodouro.pt,t,,"The website has clear booking UI with links to experiences and pricing, but no known booking platform was identified.",llm_html,Manos Do Douro,Portugal,EU
+opplevhellesylt.no,t,,"The website has multiple 'Book now' buttons linked to specific activities, indicating an online booking system.",llm_html,Outdoor Hellesylt,Norway,EU
+mattarahkka.se,t,Rezdy,"The site features a date picker, 'Book Now' buttons, and pricing, indicating an online booking system via Rezdy.",llm_markdown_v1,Arctic Heli,Sweden,EU
+bonitadamadeira.com,t,,"The site has multiple 'Book Now' buttons linked to specific tours, indicating an online booking system.",llm_html,Bonita Da Madeira,Portugal,OC
+aaacars.co.uk,t,,"The site has a booking form for fixed rates and a journey planner, indicating online booking capability.",llm_html,Aaa Cars (Southern),United Kingdom,EU
+hvarcruise.com,t,,"The site has multiple 'Book Now' buttons and mentions booking tours, but no known booking platform is embedded.",llm_html,Hvarcruise Boat Tours & Transfers,Croatia,EU
+kingtours-versailles.com,t,,"The site has 'Book Now' buttons linking to a shop page, indicating online booking capability.",llm_html,Kingtours,France,EU
+epic-canyon.ch,t,,"The website has an online booking system with a date picker and 'Réserver' buttons, allowing customers to book experiences directly.",llm_markdown_v1,Epic Canyon,Switzerland,EU
+splitthemountain.com,t,,"The website has a booking form that allows users to select programs and dates, confirming bookings with a deposit.",llm_markdown_v1,Shanti Shanti,Bulgaria,EU
+moroccomagictravels.com,t,,"The site has 'Book Now' buttons for trips, indicating online booking capability, but no known platform integration.",llm_html,Ds Services Da Silva,Morocco,AF
+naturaviva.fi,t,,"The site has a date picker, participant selector, and 'Book now' buttons indicating online booking capability.",llm_html,Natura Viva,Finland,EU
+le-diamant-bleu.fr,t,,"The site has 'RESERVEZ' buttons and clear booking UI, indicating online booking capability without a known platform.",llm_html,Le Diamant Bleu,France,EU
+stejk.se,f,,The website does not provide any online booking system or direct payment options for experiences.,llm_markdown_v1,Stejk Street Food,Sweden,EU
+megareise.no,t,,"The site has a clear booking button linking to an online booking page, indicating booking capability.",llm_html,Mega Reise Gu,Norway,EU
+ilovecominoboattrips.com,t,,"The website ilovecominoboattrips.com has a 'Book Now' page where customers can select services and choose preferred date and time, indicating an on-site booking system with date selection. No third-party booking platform widget is mentioned, suggesting a custom or integrated booking system on their own site.",linkup_deep_v1,Comino Getaways Boat Charters,Malta,EU
+scalensstudio.com,t,,"The site has a 'Reserve Your Session' button for booking photoshoots, indicating online booking capability.",llm_html,Scalens Studio,United Kingdom,EU
+lagostransferservice.com,t,,"The site has a booking form with a date picker, vehicle selection, and a 'Book Now' button, indicating online booking capability.",llm_html,Lagos Transfer Services,Portugal,EU
+genevabyebike.com,t,Rezgo,"The site mentions a simple facility to book and pay for e-bike tours, and it includes a link to Rezgo.",llm_html,Geneva By E-Bike,Switzerland,EU
+segwaytripvalencia.com,t,,"The site has multiple 'RESERVA' buttons and displays prices, indicating a booking system, but no known platform was identified.",llm_html,Inmuebles E Inversiones La Pobla,Spain,EU
+maliatravel.gr,t,,"The site has a booking form with date pickers and a 'Next Step' button, indicating online booking capability.",llm_html,Maliatravel,Greece,EU
+seaberlenga.com,t,FareHarbor,"The website uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,Seaberlenga,Portugal,EU
+whalewatchtenerife.org,t,,"The site has multiple 'Book online' buttons and a guest selector, indicating a booking system, but no known platform was identified.",llm_html,Whale Watch Tenerife,Spain,EU
+salineculcasi.it,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Oro Di Sicilia,Italy,EU
+from2spain.com,t,,"The site has multiple 'Reservar' buttons and descriptions for tours, indicating a booking system, but no known platform was identified.",llm_html,From2spain,Spain,EU
+testament-winery.com,t,,"The site has a 'Rezerviraj' button and mentions booking visits, indicating an online booking capability.",llm_html,Black Island Winery,Croatia,EU
+amsterdamtulipstour.com,t,Ticket Tailor,The website has a 'Book Tickets For 2026' link that directs to Ticket Tailor for online booking.,llm_markdown_v1,Holland Experiences,Netherlands,EU
+eolofly.com,t,,"The website allows users to select dates and book hot air balloon flights directly, indicating an online booking system.",llm_markdown_v1,Eolofly,Spain,EU
+ttyachtscharter.com,t,,"The site has a 'Book Now' button and clear booking UI, but no known booking platform was identified.",llm_html,Tt Yachts Charter,Spain,AF
+zwaantje.nl,t,,"The site has direct links for online reservations and booking buttons, indicating an online booking capability.",llm_html,Zwaantje Giethoorn Rondvaartbedrijf,Netherlands,EU
+sicicla.it,t,,"The site allows online booking and payments, with clear booking UI and cashless payment options, but no specific platform was identified.",llm_html,Sicycling Tours,Italy,EU
+pandoraspeedboat.hr,t,,"The website has a 'BOOK' button linking to a pricing section, indicating online booking capability, but no known platform is identified.",llm_html,Pandora Speed Boat Zadar,Croatia,EU
+pontadapiedadetours.pt,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Ponta Da Piedade Tours,Portugal,EU
+fidelitytravel.gr,t,,"The site has 'Book now' buttons and links to excursions and transfers, indicating booking capability.",llm_html,Fidelity Travel,Greece,EU
+excursiicazaneledunarii.ro,t,,"The site has clear booking UI with price displays and 'Cumpără!' buttons, indicating online booking capability.",llm_html,Excursii Cazanele DunăRii,Romania,EU
+aurorapointrovaniemi.com,t,,"The site allows online booking and payment directly, with a 'Book Now' button and clear instructions for booking.",llm_html,PeräPohjolan Taksi,Finland,EU
+villawolax.fi,f,,No evidence of an online booking system or relevant booking platform found in the scraped content.,llm_markdown_v1,Villa Wolax,Finland,EU
+orizzontilakecomo.com,f,,The scraped content does not indicate any online booking system or payment options.,llm_markdown_v1,Seixsette,Italy,EU
+skevoscruises.gr,t,,"The site has a 'Book your Cruise' link, indicating booking capability, but no known platform was identified.",llm_html,Συμπλοιοκτησία Παστρικός Μιχάλης,Greece,EU
+hornblowermalta.com,t,,"The website has clear booking UI with options to explore cruises and pricing, but no known booking platform was identified.",llm_html,Cominoplus,Malta,EU
+luckyaurora.net,t,Viator,The website includes a direct link to a Viator booking page for the 'Magical aurora hunt'.,llm_html,Lucky Aurora,Finland,EU
+pompei.srl,t,,"The site has 'BOOK NOW' buttons for experiences, indicating online booking capability, but no known platform is identified.",llm_html,Tempio Transfer By Luigi,Italy,EU
+bikethecity.ro,f,,The website does not provide an online booking system; it only offers contact options for inquiries.,llm_markdown_v1,Bike The City Bucharest,Romania,EU
+comunicair.pt,f,,No online booking system found; only links for more information and no direct booking options.,llm_markdown_v1,Comunicair ComunicaÇÃO E Balonismo,Portugal,EU
+flamenco-shows.com,t,,"The site has clear booking buttons and ticket prices, indicating online booking capability without a known platform.",llm_html,Taberna Flamenca El Cortijo,Spain,EU
+nomadtourscr.com,t,WooCommerce,The presence of a checkout page indicates an online booking system using WooCommerce.,llm_markdown_v1,Nomad S.R.L.,Costa Rica,NA
+baltictour.com,f,,The website does not provide an online booking system; it only offers contact for inquiries.,llm_markdown_v1,Baltia Tour,Lithuania,EU
+futurismo.pt,t,,"The site has clear booking UI with 'Book Now' buttons and date selectors, indicating online booking capability.",llm_html,Futurismo Pico Azores Adventures,,
+capriletitbe.com,t,,"The site has multiple 'Book' buttons with pricing and service details, indicating an online booking system.",llm_html,Get Your Gozzo,Italy,EU
+walksinamsterdam.nl,t,FareHarbor,The site has multiple 'Book now' buttons linking to FareHarbor for booking and payment.,llm_html,Walks In Amsterdam,Netherlands,EU
+bigbustours.com,t,,"The website offers 'Jetzt kaufen' buttons for tickets, indicating an online booking system.",llm_markdown_v1,Big Bus Tours Berlin,United Kingdom,AS
+airporttransfersbelfast.com,t,,"The site has a 'Book Online Now' button and clear booking UI, indicating online booking capability.",llm_html,Atb Executive Travel,United Kingdom,EU
+trapitava.com,f,,"The website requires reservations via phone or email, with no online booking system present.",llm_markdown_v1,Trapitava.Com,Latvia,EU
+pirateparasailing.com,t,FareHarbor,"The website contains an iframe from FareHarbor, indicating an online booking system.",llm_html,Kevin John Nelmes,United States,EU
+cracowholidays.com,t,,"The site has multiple 'Book' buttons for tours, indicating an online booking system, but no known platform was identified.",llm_html,Cracow Holidays,Poland,EU
+apulianexperience.com,f,,The website does not provide an online booking system; it only offers contact forms and inquiries for reservations.,llm_markdown_v1,Geri Emilio,Italy,EU
+echappeeverte.com,f,,No online booking system found; only mentions of online registration without a direct booking interface.,llm_html,L'éChappéE Verte,France,EU
+etnaest.com,t,,"The site has clear booking UI with 'Scegli la tua esperienza' button and pricing, but no known booking platform found.",llm_html,Etna Est Di Finocchiaro Carmelo,Italy,EU
+tuktuktapas.com,t,,The website allows users to book tours directly through links with clear pricing and booking buttons.,llm_html,Tuktuk Tapas,Spain,EU
+socarafting.si,t,,"The website has a booking system with a 'Rezerviraj' button, allowing users to select dates and participants.",llm_markdown_v1,Soca Rafting,Slovenia,EU
+rainbowtoursstockholm.com,t,,"The site has multiple 'Times and Bookings' buttons leading to booking options, indicating an online booking system.",llm_html,Rainbow Tours Stockholm,Sweden,EU
+shannonaviationmuseum.com,t,,"Multiple 'Book Now' buttons are present, indicating online booking capability, but no known platform is identified.",llm_html,Irish Aviation Foundation Limited,Ireland,EU
+adventuresport.co.uk,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Adventure Sports,United Kingdom,EU
+outlanderstours.com,t,,"The site has clear booking buttons and links to a booking calendar, indicating online booking capability.",llm_html,Raphael De Paula Mattos,Portugal,EU
+stancesup.com,t,,"The site has a 'RESERVA JÁ' button linking to a kayak tour page, indicating booking capability without a known platform.",llm_html,Luar Auspicioso,Portugal,EU
+luleatravel.com,t,,"The website has clear booking UI with multiple 'Show more' buttons leading to detailed travel packages, indicating online booking capability.",llm_html,Luleå Travel,Sweden,EU
+ibextourssantorini.com,f,,The website does not provide any direct online booking options or payment systems; it only offers 'Explore' links.,llm_markdown_v1,Santorini Golden Ibex Events & Tours,Greece,EU
+outdoor-slovenia.com,t,,"The site has a 'BOOK NOW' button linking to a shop page, indicating online booking capability.",llm_html,ŠPortne Dejavnosti ŠUbelj,Slovenia,EU
+warwick-castle.com,t,,"The site has multiple 'Book now' buttons and clear booking UI, but no known booking platform was detected.",llm_html,Bookinguide,United Kingdom,EU
+alpinefleet.com,t,,"The site has a date picker, passenger selector, and booking buttons indicating an online booking system.",llm_html,Alpine Fleet,France,EU
+madeira-seekers.com,t,,"The site has clear booking UI with date selectors and 'Book Now' buttons, but no known booking platform was identified.",llm_html,Madeira Seekers,Portugal,EU
+bohemia-balon.cz,t,,"The website has a custom booking form on their own domain where customers can select flight type, location, date preferences, and enter personal details to reserve a balloon flight date. The form includes date selection and guest information but does not redirect to any third-party marketplace.",linkup_deep_v1,Barevny Balon,Czech Republic,EU
+brijuniexcursions.com,t,,"The site has a booking form with a date picker and guest selector, allowing online reservations.",llm_html,Izlet,Croatia,EU
+mijnpraagtours.nl,t,,"The site has multiple 'Book now' buttons and clear tour descriptions, indicating online booking capability.",llm_html,Mijn Praag Tours,Czech Republic,EU
+escursi.com,t,,"The site has a date picker, a 'Cerca' button, and displays prices, indicating a booking system without a known platform.",llm_html,Escursì,Italy,EU
+wyndingroadtours.co.uk,t,FareHarbor,"The website uses FareHarbor's iframe for booking, indicating online booking capability.",llm_html,Wynding Road Tours,United Kingdom,EU
+damafactory.fr,f,,No evidence of an online booking system or relevant booking platform found in the scraped content.,llm_markdown_v1,Dama Deauville,France,EU
+santimaris.com,t,,"The site has clear booking UI with 'Explore Our Boats' and 'View More' buttons, indicating booking capability.",llm_html,Santimaris,Greece,EU
+rmtourportugal.com,t,Amelia,"The site has an online booking system with clear booking UI, including buttons to purchase experiences.",llm_html,Rm Tour,Portugal,EU
+bicyclerental.lv,t,FareHarbor,"The site uses an iframe from fareharbor.com, indicating an online booking system is available.",llm_html,Velobalt,Latvia,EU
+3dtrickart-rostock.de,t,Eversports,The site has a direct link to an online booking system via Eversports with a clear 'Online-Buchung' button.,llm_html,3D TrickArt Museum Rostock,Germany,EU
+newavelugano.ch,f,,The website does not have an online booking system; it primarily offers contact options for reservations.,llm_markdown_v1,Newave Sagl,Switzerland,EU
+sprinks-farm.co.uk,f,,The website does not provide an online booking system; it only offers contact information for inquiries.,llm_markdown_v1,Igloo (Project Consultants),United Kingdom,EU
+lallytours.com,t,,"The site has multiple 'BOOK NOW' buttons and clear pricing, indicating an online booking system without a known platform.",llm_html,Lally Coach Hire,Ireland,EU
+108elemental.com,t,Peek,"The site has a 'Book Now' button linked to a Peek booking URL, indicating online booking capability.",llm_html,,United States,NA
+seilskuter-oslo.no,t,,"The site has clear booking buttons for experiences, indicating online booking capability without a known platform.",llm_html,Seilskuter I SæRklasse,Norway,EU
+optimustours.com,t,Bokun,"The website features a booking system powered by Bokun, allowing users to select dates and book tours directly.",llm_markdown_v1,Optimustours,Spain,EU
+paragliding-tirol.com,t,,"The site has multiple 'Jetzt buchen' buttons with pricing, indicating online booking capability, but no known platform was found.",llm_html,Paragliding Tirol,Austria,EU
+kujalanporotila.com,t,,"The site mentions booking visits via a specific page or phone, indicating a booking system but lacks a known platform.",llm_html,Kujalan Porotila,Finland,EU
+pugliaonbike.it,t,,"The site has a date picker and a booking button, indicating online booking capability.",llm_html,Puglia On Bike,Italy,EU
+welcometogouda.com,f,,The scraped content does not indicate any online booking system or relevant booking platform.,llm_markdown_v1,Gouda City Tours,Netherlands,EU
+azoreanactiveblueberry.com,t,,"The site has multiple 'Book Now' buttons and clear pricing, indicating an online booking system without a known platform.",llm_html,"Azorean Active Blueberry - AnimaçãO TuríStica, Unipessoal Lda",Portugal,EU
+ecoach.fi,f,,No booking system or UI elements found; only options to make an offer for domain purchase.,llm_html,E-Coach,,EU
