@@ -8,7 +8,7 @@ Uses progressive narrowing: fast/cheap methods first, expensive LLM/browser last
 Usage:
     python3 run_pipeline.py --input leads.csv --output results.csv
     python3 run_pipeline.py --input leads.csv --output results.csv --include-linkup --verbose
-    python3 run_pipeline.py --input leads.csv --output results.csv --resume
+    python3 run_pipeline.py --input leads.csv --output results.csv --verbose
 """
 
 import argparse
@@ -155,7 +155,14 @@ def pass1_scrape_homepage(results: PipelineResults, api_key: str,
             time.sleep(delay)
 
         for future in as_completed(futures):
-            domain, result = future.result()
+            domain = futures[future]
+            try:
+                _, result = future.result()
+            except Exception as e:
+                logger.error("Pass 1 worker error for %s: %s", domain, e)
+                results.mark_booking(domain, False, None,
+                                     f"Scrape exception: {e}", "scrape_failed")
+                continue
             if result["status"] == "success" and (result["html"] or result["markdown"]):
                 results.homepage_html[domain] = result["html"]
                 results.homepage_markdown[domain] = result["markdown"]
@@ -210,7 +217,12 @@ def pass2_llm_html(results: PipelineResults, api_key: str,
             time.sleep(delay)
 
         for future in as_completed(futures):
-            domain, result = future.result()
+            domain = futures[future]
+            try:
+                _, result = future.result()
+            except Exception as e:
+                logger.error("Pass 2 worker error for %s: %s", domain, e)
+                continue
             if result["status"] == "success" and result["parsed"]:
                 parsed = result["parsed"]
                 has_booking = parsed.get("has_booking", False)
@@ -275,7 +287,12 @@ def pass4_crawl_booking_pages(results: PipelineResults, api_key: str,
             time.sleep(delay)
 
         for future in as_completed(futures):
-            domain, pages = future.result()
+            domain = futures[future]
+            try:
+                _, pages = future.result()
+            except Exception as e:
+                logger.error("Pass 4 worker error for %s: %s", domain, e)
+                continue
             if pages:
                 results.crawled_pages[domain] = pages
                 crawled += 1
@@ -327,7 +344,12 @@ def pass6_straight_crawl(results: PipelineResults, api_key: str,
             time.sleep(delay)
 
         for future in as_completed(futures):
-            domain, pages = future.result()
+            domain = futures[future]
+            try:
+                _, pages = future.result()
+            except Exception as e:
+                logger.error("Pass 6 worker error for %s: %s", domain, e)
+                continue
             if pages:
                 # Merge with existing crawled pages
                 existing = results.crawled_pages.get(domain, [])
@@ -392,7 +414,12 @@ def pass8_llm_crawled(results: PipelineResults, api_key: str,
             time.sleep(delay)
 
         for future in as_completed(futures):
-            domain, result = future.result()
+            domain = futures[future]
+            try:
+                _, result = future.result()
+            except Exception as e:
+                logger.error("Pass 8 worker error for %s: %s", domain, e)
+                continue
             if result["status"] == "success" and result["parsed"]:
                 parsed = result["parsed"]
                 has_booking = parsed.get("has_booking", False)
@@ -444,7 +471,7 @@ def pass9_linkup_deep(results: PipelineResults, api_key: str,
 # ---------------------------------------------------------------------------
 
 def run_pipeline(input_csv: str, output_csv: str,
-                 include_linkup: bool = False, resume: bool = False,
+                 include_linkup: bool = False,
                  verbose: bool = False):
     """Run the full 9-pass booking detection pipeline."""
 
@@ -564,12 +591,10 @@ def main():
     parser.add_argument("--output", required=True, help="Output CSV path")
     parser.add_argument("--include-linkup", action="store_true",
                         help="Enable pass 9 (Linkup deep search, $0.05/domain)")
-    parser.add_argument("--resume", action="store_true",
-                        help="Resume from intermediate CSVs if available")
     parser.add_argument("--verbose", action="store_true",
                         help="Enable debug logging")
     args = parser.parse_args()
-    run_pipeline(args.input, args.output, args.include_linkup, args.resume, args.verbose)
+    run_pipeline(args.input, args.output, args.include_linkup, args.verbose)
 
 
 if __name__ == "__main__":

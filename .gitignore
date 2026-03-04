@@ -2,5 +2,9 @@
 data/
 __pycache__/
 *.pyc
+*.egg-info/
+*.log
 .venv/
+.pytest_cache/
 CONTEXT.md
+.DS_Store
